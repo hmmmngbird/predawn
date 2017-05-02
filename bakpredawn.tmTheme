@@ -1,36 +1,36 @@
-ED5385<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 
 <!--
 
 COLOR KEY
 
-#ED5385 - Predawn
+#F18260 - Predawn
 
-# - Pale Yellow
-#8F877D - Yellow
-#B59052 - Orange
-#ED2B77 - Red
-# - Dark Red
-# - Maroon
+#F5F5AE - Pale Yellow
+#EDE480 - Yellow
+#F49D62 - Orange
+#CF5340 - Red
+#893121 - Dark Red
+#55201B - Maroon
 
-#52B3A5 - Pale Blue
-#52B3A5 - Blue
-# - Slate
+#BDDCDC - Pale Blue
+#92BFBF - Blue
+#5F777E - Slate
 #B4D388 - Green
-# - Pale Green
-#5EA51D - Dark Green
+#D0EDA7 - Pale Green
+#809161 - Dark Green
 
-#0c0b09 - Black
-#151311 - Grey 9
-#151311 - Grey 8
-#1f1c1a - Grey 7
-#302d2a - Grey 6
-#494540 - Grey 5
-#8f877d - Grey 4
-#bbb1a5 - Grey 3
-#D9D0C6 - Grey 2
-#e7e2dc - Grey 1
+#151515 - Black
+#232323 - Grey 9
+#252525 - Grey 8
+#282828 - Grey 7
+#3C3C3C - Grey 6
+#4C4C4C - Grey 5
+#777777 - Grey 4
+#999999 - Grey 3
+#DDDDDD - Grey 2
+#F1F1F1 - Grey 1
 
 -->
 
@@ -47,13 +47,13 @@ COLOR KEY
 				<string>#282828</string>
 
 				<key>caret</key>
-				<string>#ED5385</string>
+				<string>#F18260</string>
 
 				<key>foreground</key>
 				<string>#F1F1F1</string>
 
 				<key>invisibles</key>
-				<string>#38A698</string>
+				<string>#F18260</string>
 
 				<key>lineHighlight</key>
 				<string>#232323</string>
@@ -65,19 +65,19 @@ COLOR KEY
 				<string>#3C3C3C</string>
 
 				<key>findHighlight</key>
-				<string>#38A698</string>
+				<string>#F18260</string>
 
 				<key>gutterForeground</key>
-				<string>#0C0B09</string>
+				<string>#4C4C4C</string>
 
 				<key>guide</key>
-				<string>#ED538525</string>
+				<string>#F1826025</string>
 
 				<key>activeGuide</key>
-				<string>#ED538550</string>
+				<string>#F1826050</string>
 
 				<key>minimapBorder</key>
-				<string>#ED538525</string>
+				<string>#F1826025</string>
 			</dict>
 		</dict>
 		<dict>
@@ -110,7 +110,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -121,7 +121,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 
@@ -146,7 +146,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 
@@ -158,7 +158,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#BDDCDC</string>
 			</dict>
 		</dict>
 
@@ -170,7 +170,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 
@@ -194,7 +194,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 
@@ -218,7 +218,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -240,7 +240,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 
@@ -252,7 +252,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -263,7 +263,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,7 +274,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#BDDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +285,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -296,7 +296,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -307,7 +307,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ED2B77</string>
+				<string>#CF5340</string>
 			</dict>
 		</dict>
 		<dict>
@@ -318,7 +318,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0c0b09</string>
+				<string>#151515</string>
 			</dict>
 		</dict>
 		<dict>
@@ -351,7 +351,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -362,7 +362,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -373,7 +373,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -395,7 +395,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -406,7 +406,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -428,7 +428,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -439,7 +439,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -461,7 +461,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -472,7 +472,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -483,7 +483,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -494,7 +494,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -505,7 +505,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#bddcdc</string>
 			</dict>
 		</dict>
 		<dict>
@@ -527,7 +527,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DD7DF6</string>
+				<string>#F18260</string>
 			</dict>
 		</dict>
 		<dict>
@@ -538,7 +538,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0c0b09</string>
+				<string>#151515</string>
 				<key>foreground</key>
 				<string>#DDDDDD</string>
 			</dict>
@@ -551,9 +551,9 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0c0b09</string>
+				<string>#151515</string>
 				<key>foreground</key>
-				<string>#ED2B77</string>
+				<string>#CF5340</string>
 			</dict>
 		</dict>
 		<dict>
@@ -564,9 +564,9 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#399d90</string>
+				<string>#B4D388</string>
 				<key>foreground</key>
-				<string>#bbb1a5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -577,7 +577,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0c0b09</string>
+				<string>#151515</string>
 				<key>foreground</key>
 				<string>#B4D388</string>
 			</dict>
@@ -590,7 +590,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ED2B77</string>
+				<string>#CF5340</string>
 			</dict>
 		</dict>
 		<dict>
@@ -601,7 +601,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -645,7 +645,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -656,7 +656,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ed5385</string>
+				<string>#F18260</string>
 			</dict>
 		</dict>
 		<dict>
@@ -667,7 +667,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ED2B77</string>
+				<string>#CF5340</string>
 			</dict>
 		</dict>
 		<dict>
@@ -678,7 +678,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -689,7 +689,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ED2B77</string>
+				<string>#CF5340</string>
 			</dict>
 		</dict>
 		<dict>
@@ -722,7 +722,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -733,7 +733,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -744,7 +744,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 			<dict>
@@ -766,7 +766,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -777,7 +777,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#f49d62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -788,7 +788,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5EA51D</string>
+				<string>#B4D388</string>
 			</dict>
 		</dict>
 		<dict>
@@ -799,7 +799,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5EA51D</string>
+				<string>#B4D388</string>
 			</dict>
 		</dict>
 		<dict>
@@ -810,7 +810,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ed5385</string>
+				<string>#F18260</string>
 			</dict>
 		</dict>
 		<dict>
@@ -821,7 +821,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ed5385</string>
+				<string>#F18260</string>
 			</dict>
 		</dict>
 		<dict>
@@ -832,7 +832,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#38A698</string>
+				<string>#F18260</string>
 			</dict>
 		</dict>
 		<dict>
@@ -843,7 +843,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5EA51D</string>
+				<string>#B4D388</string>
 			</dict>
 		</dict>
 		<dict>
@@ -854,7 +854,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -865,7 +865,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5EA51D</string>
+				<string>#B4D388</string>
 			</dict>
 		</dict>
 		<dict>
@@ -887,7 +887,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B59052</string>
+				<string>#F49D62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -898,7 +898,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5EA51D</string>
+				<string>#B4D388</string>
 			</dict>
 		</dict>
 		<dict>
@@ -920,7 +920,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#92BFBF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -931,7 +931,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5EA51D</string>
+				<string>#B4D388</string>
 			</dict>
 		</dict>
 		<dict>
@@ -953,7 +953,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
@@ -964,7 +964,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#52B3A5</string>
+				<string>#BDDCDC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -975,7 +975,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ED2B77</string>
+				<string>#CF5340</string>
 			</dict>
 		</dict>
 		<dict>
@@ -986,7 +986,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F877D</string>
+				<string>#EDE480</string>
 			</dict>
 		</dict>
 		<dict>
